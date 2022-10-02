@@ -14,3 +14,5 @@ print(t)
 print(next(t))
 print(next(t))
 print(next(t))
+
+print("GAME OVER")
